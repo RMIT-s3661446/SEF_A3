@@ -31,6 +31,7 @@ public class Main {
 
             case 2:
             System.out.println("Instructor logged in");
+            //Instructor automatically creates course
             instructor.createCourse("Hello Everyone");
             break;
 
